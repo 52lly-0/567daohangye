@@ -18,6 +18,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.emailtick.com/zh
       url: https://www.emailtick.com/zh
       description: 临时邮箱 
+    - title: ip纯净度检测 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://cleanip.io/
+      url: https://cleanip.io/
+      description: IP脏不? 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
