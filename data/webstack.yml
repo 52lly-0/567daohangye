@@ -6,6 +6,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://nav.eooce.com/
       url: https://nav.eooce.com/
       description: 佬王工具箱 
+    - title: 谷歌2A网页验证
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://2fa.zone/
+      url: https://2fa.zone/
+      description: 网页版验证器 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
