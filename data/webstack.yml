@@ -10,6 +10,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://2fa.zone/
       url: https://2fa.zone/
       description: 网页版验证器 
+    - title: 网络速度检测
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://openspeedtest.com/
+      url: https://openspeedtest.com/
+      description: 在线flas网速检测 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -1273,19 +1277,25 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=115.ilxdh.com/
           description: 推送115链接 
 
-- taxonomy: 学习教程
+- taxonomy: 安卓电视TV  
   icon: fa-regular fa-folder-open
   list: 
-    - term: 设计规范
+    - term: TV 
       links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: images/logos/designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
+        - title: TV工具箱
+          url: https://github.com/ZhhHugoChang/PushTV
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: PushTV 是一款全AI构建专为 Android TV 打造的极速工具箱。它集成了文件无线传输、应用管理、版本更新检测等功能，旨在彻底解决电视端输入难、安装 App 麻烦、管理软件不直观等痛点。
         - title: Awesome design systems
           url: https://github.com/alexpate/awesome-design-systems
           logo: images/logos/awesome_design_systems.png
-          description:  A collection of awesome design systems
+          description:  A collection of awesome design systems 
+    - term: 安卓&虚拟化
+      links:
+        - title: 虚拟机客户端
+          url: https://github.com/pipicat613/MuToolsProject
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 一站式 MuMu12 模拟器安装与优化工具
         - title: Material Design
           url: https://material.io/guidelines/
           logo: images/logos/Material_Design.png
