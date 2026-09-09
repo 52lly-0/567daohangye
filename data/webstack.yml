@@ -30,6 +30,22 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://scamalytics.com/
       url: https://scamalytics.com/
       description: ip的分析 
+    - title: 网页质量检测脚本 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://github.com/xykt/NetQuality
+      url: https://github.com/xykt/NetQuality 
+      description: 服务器检测 
+    - title: itdog-ping 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.itdog.cn/
+      url: https://www.itdog.cn/
+      description: ping 
+    - title: 科技lion一键脚本 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://kejilion.sh/index-zh-CN.html
+      url: https://kejilion.sh/index-zh-CN.html
+      description: 想你所想 一键DD 
+    - title: 把网页打包成安装应用 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://shiaho777.github.io/web-to-app/zh/
+      url: https://shiaho777.github.io/web-to-app/zh/
+      description: 把任意网页打包成可执行安装的应用 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
