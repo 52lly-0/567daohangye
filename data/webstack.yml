@@ -179,6 +179,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=webssh.hidns.vip/ 
           url: https://webssh.hidns.vip/
           description: SSH网页版本 
+    - title: SSH运维中枢
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.hexhub.cn/#download
+      url: https://www.hexhub.cn/#download
+      description: ssh登录客户端中枢运维 
            
     - term: M3U8
       links:
