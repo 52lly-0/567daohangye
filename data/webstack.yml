@@ -22,6 +22,14 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://cleanip.io/
       url: https://cleanip.io/
       description: IP脏不? 
+    - title: 我的IP是什么 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://ipinfo.io/what-is-my-ip
+      url: https://ipinfo.io/what-is-my-ip
+      description: 我现在的ip是什么 
+    - title: ip社会分析 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://scamalytics.com/
+      url: https://scamalytics.com/
+      description: ip的分析 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
