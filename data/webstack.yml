@@ -1,4 +1,11 @@
 ---
+- taxonomy: 常用&vscode&部署&
+  icon: fa-star
+  links: 
+    - title: 工具
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://nav.eooce.com/
+      url: https://nav.eooce.com/
+      description: 佬王工具箱 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
