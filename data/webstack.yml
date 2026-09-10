@@ -46,6 +46,14 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://shiaho777.github.io/web-to-app/zh/
       url: https://shiaho777.github.io/web-to-app/zh/
       description: 把任意网页打包成可执行安装的应用 
+    - title: 网络速度测试
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.tcping.cn/
+      url: https://www.tcping.cn/
+      description: 测试网络 
+    - title: 安卓cloudflare
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://cf.muort.com/
+      url: https://cf.muort.com/
+      description: 管理器 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -441,7 +449,11 @@
     - title: 脚本库
       logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
       url: https://soujiaoben.org/#/pages/list/list
-      description: 发现新鲜有趣的产品
+      description: 发现新鲜有趣的产品 
+    - title: youtube网速汉化插件
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://greasyfork.org/zh-CN/scripts/564003-youtube-%E7%BD%91%E9%80%9F%E5%8D%95%E4%BD%8D%E8%BD%AC%E6%8D%A2%E5%99%A8-%E7%BB%9F%E8%AE%A1%E4%BF%A1%E6%81%AF%E6%B1%89%E5%8C%96
+      url: https://greasyfork.org/zh-CN/scripts/564003-youtube-%E7%BD%91%E9%80%9F%E5%8D%95%E4%BD%8D%E8%BD%AC%E6%8D%A2%E5%99%A8-%E7%BB%9F%E8%AE%A1%E4%BF%A1%E6%81%AF%E6%B1%89%E5%8C%96
+      description: 汉化youtube详细页面插件 
     - title: 油猴脚本官网 
       logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
       url: https://greasyfork.org/zh-CN 
@@ -667,6 +679,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=stacher.io/
           url: https://stacher.io/
           description: 大文件下载 
+        - title: 稻侠下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=https://github.com/dardiao/taoxia
+          url: https://github.com/dardiao/taoxia
+          description: 油管下载器 
 - taxonomy: 各类部署
   icon: fa-thumbs-up
   list: 
