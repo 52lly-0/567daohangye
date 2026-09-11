@@ -58,6 +58,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=https://github.com/Mun1to/TaskbarGroupsFluent
       url: https://github.com/Mun1to/TaskbarGroupsFluent
       description: 电脑底部任务栏合并器 
+    - title: IP分流检测地址
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://ip.net.coffee/
+      url: https://ip.net.coffee/
+      description: ip分流检测 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
